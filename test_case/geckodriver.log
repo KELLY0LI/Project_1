@@ -1,0 +1,33 @@
+1504145715331	geckodriver	INFO	geckodriver 0.18.0
+1504145715378	geckodriver	INFO	Listening on 127.0.0.1:55568
+1504145717249	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1504145717790	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1504145718291	Marionette	INFO	Enabled via --marionette
+1504145720052	Marionette	INFO	Listening on port 55574
+1504145720062	Marionette	INFO	Listening on port 55574
+1504145720611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1504145720661	Marionette	DEBUG	loaded listener.js
+1504145720779	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1504145729360	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1504145729361	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1504145729681	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1504145729739	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+Unable to read VR Path Registry from C:\Users\liling\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=uni&json=1&p=3&sid=1456_21112_18559_17001_20928&req=2&csor=3&pwd=un&cb=jQuery110202986563496697042_1504145729545&_=1504145729549, line 1: TypeError: jQuery110202986563496697042_1504145729545 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=un&json=1&p=3&sid=1456_21112_18559_17001_20928&req=2&csor=2&pwd=u&cb=jQuery110202986563496697042_1504145729545&_=1504145729548, line 1: TypeError: jQuery110202986563496697042_1504145729545 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=u&json=1&p=3&sid=1456_21112_18559_17001_20928&req=2&csor=1&cb=jQuery110202986563496697042_1504145729545&_=1504145729547, line 1: TypeError: jQuery110202986563496697042_1504145729545 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unitt&json=1&p=3&sid=1456_21112_18559_17001_20928&req=2&csor=5&pwd=unit&cb=jQuery110202986563496697042_1504145729545&_=1504145729551, line 1: TypeError: jQuery110202986563496697042_1504145729545 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unit&json=1&p=3&sid=1456_21112_18559_17001_20928&req=2&csor=4&pwd=uni&cb=jQuery110202986563496697042_1504145729545&_=1504145729550, line 1: TypeError: jQuery110202986563496697042_1504145729545 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unitte&json=1&p=3&sid=1456_21112_18559_17001_20928&req=2&csor=6&pwd=unitt&cb=jQuery110202986563496697042_1504145729545&_=1504145729552, line 1: TypeError: jQuery110202986563496697042_1504145729545 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unittes&json=1&p=3&sid=1456_21112_18559_17001_20928&req=2&csor=7&pwd=unitte&cb=jQuery110202986563496697042_1504145729545&_=1504145729553, line 1: TypeError: jQuery110202986563496697042_1504145729545 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=unittest&json=1&p=3&sid=1456_21112_18559_17001_20928&req=2&csor=8&pwd=unittes&cb=jQuery110202986563496697042_1504145729545&_=1504145729554, line 1: TypeError: jQuery110202986563496697042_1504145729545 is not a function
+1504145730270	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+Unable to read VR Path Registry from C:\Users\liling\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10912] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10912] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\liling\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://shield-recipe-client/lib/RecipeRunner.jsm, line 219: TypeError: log is undefined
+[Child 13244] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
