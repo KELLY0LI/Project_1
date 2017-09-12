@@ -1,0 +1,32 @@
+1505195892202	geckodriver	INFO	geckodriver 0.18.0
+1505195892264	geckodriver	INFO	Listening on 127.0.0.1:55110
+1505195894308	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505195894828	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505195895471	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\liling\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8484] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505195898034	Marionette	INFO	Listening on port 55117
+1505195898083	Marionette	INFO	Listening on port 55117
+1505195898195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505195898264	Marionette	DEBUG	loaded listener.js
+1505195898479	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505195898639	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505195898639	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1505195899743	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.youdao.com/"
+1505195901322	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://c.youdao.com/www/banner.html"
+1505195901407	Marionette	DEBUG	Received DOM event "pageshow" for "https://c.youdao.com/www/banner.html"
+1505195902759	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.youdao.com/"
+1505195903341	Marionette	DEBUG	Received DOM event "beforeunload" for "http://www.youdao.com/"
+1505195903495	Marionette	DEBUG	Received DOM event "pagehide" for "http://www.youdao.com/"
+1505195903495	Marionette	DEBUG	Received DOM event "unload" for "http://www.youdao.com/"
+1505195903926	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1505195903927	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1505195904454	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.youdao.com/w/eng/webdriver/#keyfrom=dict2.index"
+1505195904529	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://c.youdao.com/www/app.html"
+1505195904794	Marionette	DEBUG	Received DOM event "pageshow" for "https://c.youdao.com/www/app.html"
+1505195904920	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://impservice.youdao.com/imp/request.s?req=https%3A%2F%2Fdict.youdao.com&doctype=dw&memberid=110636&tn=text_250_250&width=250&height=250&posid=203&ref2=https://dict.youdao.com&syndid=57&time=1505195904410"
+1505195904921	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://impservice.youdao.com/imp/request.s?req=https%3A%2F%2Fdict.youdao.com&doctype=dw&memberid=110636&tn=text_960_60&width=960&height=60&posid=202&ref2=https://dict.youdao.com&syndid=57&time=1505195904411"
+1505195904925	Marionette	DEBUG	Received DOM event "pageshow" for "https://impservice.youdao.com/imp/request.s?req=https%3A%2F%2Fdict.youdao.com&doctype=dw&memberid=110636&tn=text_960_60&width=960&height=60&posid=202&ref2=https://dict.youdao.com&syndid=57&time=1505195904411"
+1505195904934	Marionette	DEBUG	Received DOM event "pageshow" for "https://impservice.youdao.com/imp/request.s?req=https%3A%2F%2Fdict.youdao.com&doctype=dw&memberid=110636&tn=text_250_250&width=250&height=250&posid=203&ref2=https://dict.youdao.com&syndid=57&time=1505195904410"
+1505195904941	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.youdao.com/w/eng/webdriver/#keyfrom=dict2.index"
+1505195907034	Marionette	INFO	New connections will no longer be accepted
